@@ -1,21 +1,16 @@
 ---
 
-Bug tracker - [github.com/russianidiot/GrowlHelperApp.applescript.examples/issues](http://github.com/russianidiot/GrowlHelperApp.applescript.examples/issues)
-<img src="http://russianidiot.github.io/images/issue/16.png" />
-
----
-
 <p align="center">
 dotfiles repos
-<a href="http://russianidiot.github.com/russianidiot/sh/sh.txt/">russianidiot.github.io/sh/sh.txt/</a>
+<a href="http://russianidiot.github.io/sh/sh.txt/">russianidiot.github.io/sh/sh.txt/</a>
 </p>
 <p align="center">
 sh repos
-<a href="http://russianidiot.github.com/russianidiot/sh/">russianidiot.github.io/sh/</a>
+<a href="http://russianidiot.github.io/sh/">russianidiot.github.io/sh/</a>
 </p>
 
 <p align="center">
-	all repos <a href="http://russianidiot.github.com/">russianidiot.github.com</a> <img src="http://russianidiot.github.io/images/star/16.png" />
+	all repos <a href="http://russianidiot.github.io/">russianidiot.github.io</a> <img src="http://russianidiot.github.io/images/star/16.png" />
 </p>
 
 <p align="center">
